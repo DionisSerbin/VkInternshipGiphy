@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VkInternshipGiphy</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="update_gifs">обновить гифки</string>
+    <string name="add_key_word">Введите ключевое слово для поиска</string>
+    <string name="gif_width">Ширина гифки</string>
+    <string name="gif_height">Высота гифки</string>
+</resources>
